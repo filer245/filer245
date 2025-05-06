@@ -34,13 +34,6 @@
 ## Stats Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex7pl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alex7pl" height="192px"/>
-  <br/>
-</p>
-
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
